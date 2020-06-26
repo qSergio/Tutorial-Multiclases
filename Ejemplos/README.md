@@ -1,4 +1,4 @@
-# Ejemplos de clasificación binaria
+# Ejemplos de Clasificación y Clustering
 
 ### En construcción
 
@@ -8,4 +8,4 @@ Algunos ejemplos de clasificación para caso de una variable objetivo binaria. P
 
 2. Regresión logística.
 
-3. Clustering para caso binario.
+3. Clustering
